@@ -1,2 +1,2 @@
 # praktikum2
-test github
+Pertemuan Ke 2 PHP Praktikum
